@@ -1,0 +1,5067 @@
+image index = 0
+selected detector = ./2D_feature_tracking
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 26.3464 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 6.48681 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 13.1125 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.12398 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 1.92482 ms
+number of matches n = 20
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 18.5889 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.841566 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.121804 ms
+number of matches n = 10
+===============================================================
+image index = 3
+selected detector = HARRIS
+keypoints n = 370 in time = 17.2703 ms
+keypoints for preceeding vehicle = 62
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.00398 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.143444 ms
+number of matches n = 18
+===============================================================
+image index = 4
+selected detector = HARRIS
+keypoints n = 535 in time = 20.2094 ms
+keypoints for preceeding vehicle = 87
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.868093 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.142471 ms
+number of matches n = 5
+===============================================================
+image index = 5
+selected detector = HARRIS
+keypoints n = 2913 in time = 144.102 ms
+keypoints for preceeding vehicle = 353
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.91702 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.10047 ms
+number of matches n = 2
+===============================================================
+image index = 6
+selected detector = HARRIS
+keypoints n = 203 in time = 14.5324 ms
+keypoints for preceeding vehicle = 38
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.923227 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.149007 ms
+number of matches n = 16
+===============================================================
+image index = 7
+selected detector = HARRIS
+keypoints n = 836 in time = 28.7475 ms
+keypoints for preceeding vehicle = 142
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.809468 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.107719 ms
+number of matches n = 2
+===============================================================
+image index = 8
+selected detector = HARRIS
+keypoints n = 585 in time = 21.3401 ms
+keypoints for preceeding vehicle = 104
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.94197 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.138194 ms
+number of matches n = 10
+===============================================================
+image index = 9
+selected detector = HARRIS
+keypoints n = 1555 in time = 56.3534 ms
+keypoints for preceeding vehicle = 212
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.770387 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.104415 ms
+number of matches n = 5
+===============================================================
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 29.0672 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = ORB
+ORB descriptor extraction in 7.15794 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 11.9971 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = ORB
+ORB descriptor extraction in 2.98913 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 3.58393 ms
+number of matches n = 18
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 20.4654 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = ORB
+ORB descriptor extraction in 2.87946 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.116466 ms
+number of matches n = 7
+===============================================================
+image index = 3
+selected detector = HARRIS
+keypoints n = 370 in time = 16.6205 ms
+keypoints for preceeding vehicle = 62
+selected descriptor = ORB
+ORB descriptor extraction in 2.67717 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.124826 ms
+number of matches n = 16
+===============================================================
+image index = 4
+selected detector = HARRIS
+keypoints n = 535 in time = 19.6137 ms
+keypoints for preceeding vehicle = 87
+selected descriptor = ORB
+ORB descriptor extraction in 2.55168 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.155768 ms
+number of matches n = 1
+===============================================================
+image index = 5
+selected detector = HARRIS
+keypoints n = 2913 in time = 138.642 ms
+keypoints for preceeding vehicle = 353
+selected descriptor = ORB
+ORB descriptor extraction in 1.74518 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.124553 ms
+number of matches n = 1
+===============================================================
+image index = 6
+selected detector = HARRIS
+keypoints n = 203 in time = 14.9485 ms
+keypoints for preceeding vehicle = 38
+selected descriptor = ORB
+ORB descriptor extraction in 2.86876 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.131432 ms
+number of matches n = 17
+===============================================================
+image index = 7
+selected detector = HARRIS
+keypoints n = 836 in time = 28.1932 ms
+keypoints for preceeding vehicle = 142
+selected descriptor = ORB
+ORB descriptor extraction in 2.33003 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.102208 ms
+number of matches n = 3
+===============================================================
+image index = 8
+selected detector = HARRIS
+keypoints n = 585 in time = 21.904 ms
+keypoints for preceeding vehicle = 104
+selected descriptor = ORB
+ORB descriptor extraction in 2.64007 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.153605 ms
+number of matches n = 6
+===============================================================
+image index = 9
+selected detector = HARRIS
+keypoints n = 1555 in time = 54.9288 ms
+keypoints for preceeding vehicle = 212
+selected descriptor = ORB
+ORB descriptor extraction in 1.99742 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.117157 ms
+number of matches n = 5
+===============================================================
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 28.5174 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = FREAK
+FREAK descriptor extraction in 32.1117 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 13.4817 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = FREAK
+FREAK descriptor extraction in 22.8798 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 3.26799 ms
+number of matches n = 22
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 21.6835 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = FREAK
+FREAK descriptor extraction in 28.1204 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.109327 ms
+number of matches n = 9
+===============================================================
+image index = 3
+selected detector = HARRIS
+keypoints n = 370 in time = 16.1959 ms
+keypoints for preceeding vehicle = 62
+selected descriptor = FREAK
+FREAK descriptor extraction in 25.0517 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.131132 ms
+number of matches n = 13
+===============================================================
+image index = 4
+selected detector = HARRIS
+keypoints n = 535 in time = 18.1291 ms
+keypoints for preceeding vehicle = 87
+selected descriptor = FREAK
+FREAK descriptor extraction in 22.5018 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.103288 ms
+number of matches n = 1
+===============================================================
+image index = 5
+selected detector = HARRIS
+keypoints n = 2913 in time = 139.752 ms
+keypoints for preceeding vehicle = 353
+selected descriptor = FREAK
+FREAK descriptor extraction in 19.6556 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.104404 ms
+number of matches n = 2
+===============================================================
+image index = 6
+selected detector = HARRIS
+keypoints n = 203 in time = 15.3924 ms
+keypoints for preceeding vehicle = 38
+selected descriptor = FREAK
+FREAK descriptor extraction in 26.6074 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.10618 ms
+number of matches n = 13
+===============================================================
+image index = 7
+selected detector = HARRIS
+keypoints n = 836 in time = 25.2652 ms
+keypoints for preceeding vehicle = 142
+selected descriptor = FREAK
+FREAK descriptor extraction in 19.9906 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.100917 ms
+number of matches n = 5
+===============================================================
+image index = 8
+selected detector = HARRIS
+keypoints n = 585 in time = 21.5614 ms
+keypoints for preceeding vehicle = 104
+selected descriptor = FREAK
+FREAK descriptor extraction in 22.7275 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.117819 ms
+number of matches n = 2
+===============================================================
+image index = 9
+selected detector = HARRIS
+keypoints n = 1555 in time = 54.5495 ms
+keypoints for preceeding vehicle = 212
+selected descriptor = FREAK
+FREAK descriptor extraction in 18.0709 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.108856 ms
+number of matches n = 5
+===============================================================
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 25.6678 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = SIFT
+SIFT descriptor extraction in 18.91 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 14.6162 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = SIFT
+SIFT descriptor extraction in 15.2506 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.186763 ms
+number of matches n = 15
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 18.5796 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = SIFT
+SIFT descriptor extraction in 14.7608 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.12283 ms
+number of matches n = 5
+===============================================================
+image index = 3
+selected detector = HARRIS
+keypoints n = 370 in time = 16.8707 ms
+keypoints for preceeding vehicle = 62
+selected descriptor = SIFT
+SIFT descriptor extraction in 13.6381 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.140402 ms
+number of matches n = 16
+===============================================================
+image index = 4
+selected detector = HARRIS
+keypoints n = 535 in time = 20.8596 ms
+keypoints for preceeding vehicle = 87
+selected descriptor = SIFT
+SIFT descriptor extraction in 13.1708 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.136571 ms
+number of matches n = 1
+===============================================================
+image index = 5
+selected detector = HARRIS
+keypoints n = 2913 in time = 144.514 ms
+keypoints for preceeding vehicle = 353
+selected descriptor = SIFT
+SIFT descriptor extraction in 9.90915 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.111518 ms
+number of matches n = 0
+===============================================================
+image index = 6
+selected detector = HARRIS
+keypoints n = 203 in time = 11.6455 ms
+keypoints for preceeding vehicle = 38
+selected descriptor = SIFT
+SIFT descriptor extraction in 11.1171 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.107176 ms
+number of matches n = 19
+===============================================================
+image index = 7
+selected detector = HARRIS
+keypoints n = 836 in time = 28.0354 ms
+keypoints for preceeding vehicle = 142
+selected descriptor = SIFT
+SIFT descriptor extraction in 11.1819 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.106052 ms
+number of matches n = 3
+===============================================================
+image index = 8
+selected detector = HARRIS
+keypoints n = 585 in time = 22.0857 ms
+keypoints for preceeding vehicle = 104
+selected descriptor = SIFT
+SIFT descriptor extraction in 12.9185 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.144109 ms
+number of matches n = 6
+===============================================================
+image index = 9
+selected detector = HARRIS
+keypoints n = 1555 in time = 56.6899 ms
+keypoints for preceeding vehicle = 212
+selected descriptor = SIFT
+SIFT descriptor extraction in 9.69857 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.124732 ms
+number of matches n = 3
+===============================================================
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.98354 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 11.4786 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.59903 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.51608 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 3.38615 ms
+number of matches n = 45
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.57652 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.87026 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.182043 ms
+number of matches n = 47
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.98449 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.52528 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.196476 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.62789 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.62419 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.266961 ms
+number of matches n = 46
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.48721 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.52038 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.261168 ms
+number of matches n = 40
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.52924 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.52388 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.254288 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.49387 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.52107 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.250806 ms
+number of matches n = 43
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.65565 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.48733 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.167788 ms
+number of matches n = 43
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.5237 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.52638 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.247522 ms
+number of matches n = 47
+===============================================================
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.30349 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = ORB
+ORB descriptor extraction in 13.4478 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.4853 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = ORB
+ORB descriptor extraction in 4.34279 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.34709 ms
+number of matches n = 43
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.50015 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = ORB
+ORB descriptor extraction in 5.23043 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.167378 ms
+number of matches n = 44
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.42689 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = ORB
+ORB descriptor extraction in 4.23823 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.17159 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.53129 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = ORB
+ORB descriptor extraction in 3.48079 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.162264 ms
+number of matches n = 44
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.46649 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = ORB
+ORB descriptor extraction in 4.20932 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.201905 ms
+number of matches n = 39
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 3.18249 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = ORB
+ORB descriptor extraction in 3.22085 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.141343 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.4674 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = ORB
+ORB descriptor extraction in 4.54287 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.220471 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.51799 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = ORB
+ORB descriptor extraction in 3.83958 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.244103 ms
+number of matches n = 44
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.55899 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = ORB
+ORB descriptor extraction in 4.12503 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.197921 ms
+number of matches n = 47
+===============================================================
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.65847 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = FREAK
+FREAK descriptor extraction in 41.7537 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.11916 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.0463 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.62776 ms
+number of matches n = 35
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.54268 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.3875 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.127899 ms
+number of matches n = 38
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.38611 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.6179 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.136536 ms
+number of matches n = 31
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.47755 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.6463 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.132028 ms
+number of matches n = 35
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.4298 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.9837 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.119397 ms
+number of matches n = 35
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.47537 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.4345 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.133168 ms
+number of matches n = 38
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.46295 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.3645 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.142407 ms
+number of matches n = 33
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.52737 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.1451 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.153763 ms
+number of matches n = 36
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.51114 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.3088 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.11627 ms
+number of matches n = 43
+===============================================================
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.18932 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = AKAZE
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 2.20442 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = SIFT
+SIFT descriptor extraction in 31.2802 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.08857 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = SIFT
+SIFT descriptor extraction in 16.9342 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 3.1861 ms
+number of matches n = 44
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.5671 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = SIFT
+SIFT descriptor extraction in 18.7147 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.201625 ms
+number of matches n = 44
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.32723 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = SIFT
+SIFT descriptor extraction in 18.345 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.17364 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.42367 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.4986 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.197481 ms
+number of matches n = 42
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.43448 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.5775 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.18052 ms
+number of matches n = 42
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.44825 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = SIFT
+SIFT descriptor extraction in 18.0503 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.181933 ms
+number of matches n = 41
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.48273 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = SIFT
+SIFT descriptor extraction in 16.8431 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.179711 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.62724 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.1706 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.190161 ms
+number of matches n = 40
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.54222 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.3451 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.176393 ms
+number of matches n = 38
+===============================================================
+image index = 0
+selected detector = BRISK
+keypoints n = 2757 in time = 52.48 ms
+keypoints for preceeding vehicle = 254
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 5.69735 ms
+===============================================================
+image index = 1
+selected detector = BRISK
+keypoints n = 2777 in time = 33.9317 ms
+keypoints for preceeding vehicle = 274
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.682749 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 3.16127 ms
+number of matches n = 36
+===============================================================
+image index = 2
+selected detector = BRISK
+keypoints n = 2741 in time = 33.7148 ms
+keypoints for preceeding vehicle = 276
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.746392 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.143523 ms
+number of matches n = 30
+===============================================================
+image index = 3
+selected detector = BRISK
+keypoints n = 2735 in time = 33.2586 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.702645 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.251412 ms
+number of matches n = 35
+===============================================================
+image index = 4
+selected detector = BRISK
+keypoints n = 2757 in time = 33.1487 ms
+keypoints for preceeding vehicle = 293
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.73009 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.166207 ms
+number of matches n = 36
+===============================================================
+image index = 5
+selected detector = BRISK
+keypoints n = 2695 in time = 32.9317 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.64847 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.168819 ms
+number of matches n = 33
+===============================================================
+image index = 6
+selected detector = BRISK
+keypoints n = 2715 in time = 44.9738 ms
+keypoints for preceeding vehicle = 289
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.696791 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.194804 ms
+number of matches n = 34
+===============================================================
+image index = 7
+selected detector = BRISK
+keypoints n = 2628 in time = 31.972 ms
+keypoints for preceeding vehicle = 268
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.683839 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.201984 ms
+number of matches n = 37
+===============================================================
+image index = 8
+selected detector = BRISK
+keypoints n = 2639 in time = 31.9288 ms
+keypoints for preceeding vehicle = 260
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.723426 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.184756 ms
+number of matches n = 35
+===============================================================
+image index = 9
+selected detector = BRISK
+keypoints n = 2672 in time = 32.3329 ms
+keypoints for preceeding vehicle = 250
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.855272 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.172112 ms
+number of matches n = 36
+===============================================================
+image index = 0
+selected detector = BRISK
+keypoints n = 2757 in time = 53.5278 ms
+keypoints for preceeding vehicle = 254
+selected descriptor = ORB
+ORB descriptor extraction in 21.2992 ms
+===============================================================
+image index = 1
+selected detector = BRISK
+keypoints n = 2777 in time = 33.9194 ms
+keypoints for preceeding vehicle = 274
+selected descriptor = ORB
+ORB descriptor extraction in 10.7413 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 1.63482 ms
+number of matches n = 29
+===============================================================
+image index = 2
+selected detector = BRISK
+keypoints n = 2741 in time = 33.9676 ms
+keypoints for preceeding vehicle = 276
+selected descriptor = ORB
+ORB descriptor extraction in 9.97626 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.190492 ms
+number of matches n = 33
+===============================================================
+image index = 3
+selected detector = BRISK
+keypoints n = 2735 in time = 32.8104 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = ORB
+ORB descriptor extraction in 10.4338 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.161418 ms
+number of matches n = 32
+===============================================================
+image index = 4
+selected detector = BRISK
+keypoints n = 2757 in time = 33.3416 ms
+keypoints for preceeding vehicle = 293
+selected descriptor = ORB
+ORB descriptor extraction in 10.2982 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.172211 ms
+number of matches n = 35
+===============================================================
+image index = 5
+selected detector = BRISK
+keypoints n = 2695 in time = 32.2299 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = ORB
+ORB descriptor extraction in 11.071 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.169599 ms
+number of matches n = 34
+===============================================================
+image index = 6
+selected detector = BRISK
+keypoints n = 2715 in time = 32.8791 ms
+keypoints for preceeding vehicle = 289
+selected descriptor = ORB
+ORB descriptor extraction in 8.78325 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.158878 ms
+number of matches n = 39
+===============================================================
+image index = 7
+selected detector = BRISK
+keypoints n = 2628 in time = 32.2553 ms
+keypoints for preceeding vehicle = 268
+selected descriptor = ORB
+ORB descriptor extraction in 11.5918 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.159979 ms
+number of matches n = 33
+===============================================================
+image index = 8
+selected detector = BRISK
+keypoints n = 2639 in time = 31.8315 ms
+keypoints for preceeding vehicle = 260
+selected descriptor = ORB
+ORB descriptor extraction in 11.533 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.20046 ms
+number of matches n = 34
+===============================================================
+image index = 9
+selected detector = BRISK
+keypoints n = 2672 in time = 32.7917 ms
+keypoints for preceeding vehicle = 250
+selected descriptor = ORB
+ORB descriptor extraction in 11.2269 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.116426 ms
+number of matches n = 35
+===============================================================
+image index = 0
+selected detector = BRISK
+keypoints n = 2757 in time = 50.6132 ms
+keypoints for preceeding vehicle = 254
+selected descriptor = FREAK
+FREAK descriptor extraction in 38.1769 ms
+===============================================================
+image index = 1
+selected detector = BRISK
+keypoints n = 2777 in time = 35.494 ms
+keypoints for preceeding vehicle = 274
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.8373 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.239 ms
+number of matches n = 35
+===============================================================
+image index = 2
+selected detector = BRISK
+keypoints n = 2741 in time = 33.2576 ms
+keypoints for preceeding vehicle = 276
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.0098 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.174131 ms
+number of matches n = 35
+===============================================================
+image index = 3
+selected detector = BRISK
+keypoints n = 2735 in time = 33.4312 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = FREAK
+FREAK descriptor extraction in 34.517 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.129405 ms
+number of matches n = 34
+===============================================================
+image index = 4
+selected detector = BRISK
+keypoints n = 2757 in time = 33.41 ms
+keypoints for preceeding vehicle = 293
+selected descriptor = FREAK
+FREAK descriptor extraction in 40.703 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.136199 ms
+number of matches n = 39
+===============================================================
+image index = 5
+selected detector = BRISK
+keypoints n = 2695 in time = 35.7765 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = FREAK
+FREAK descriptor extraction in 34.1925 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.165393 ms
+number of matches n = 33
+===============================================================
+image index = 6
+selected detector = BRISK
+keypoints n = 2715 in time = 33.8081 ms
+keypoints for preceeding vehicle = 289
+selected descriptor = FREAK
+FREAK descriptor extraction in 36.9975 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.131741 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = BRISK
+keypoints n = 2628 in time = 32.3699 ms
+keypoints for preceeding vehicle = 268
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.9658 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.131401 ms
+number of matches n = 33
+===============================================================
+image index = 8
+selected detector = BRISK
+keypoints n = 2639 in time = 33.3898 ms
+keypoints for preceeding vehicle = 260
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.7395 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.126971 ms
+number of matches n = 34
+===============================================================
+image index = 9
+selected detector = BRISK
+keypoints n = 2672 in time = 33.7195 ms
+keypoints for preceeding vehicle = 250
+selected descriptor = FREAK
+FREAK descriptor extraction in 36.0475 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.1241 ms
+number of matches n = 38
+===============================================================
+image index = 0
+selected detector = BRISK
+keypoints n = 2757 in time = 50.6916 ms
+keypoints for preceeding vehicle = 254
+selected descriptor = SIFT
+SIFT descriptor extraction in 45.3108 ms
+===============================================================
+image index = 1
+selected detector = BRISK
+keypoints n = 2777 in time = 37.5801 ms
+keypoints for preceeding vehicle = 274
+selected descriptor = SIFT
+SIFT descriptor extraction in 31.6347 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.840189 ms
+number of matches n = 34
+===============================================================
+image index = 2
+selected detector = BRISK
+keypoints n = 2741 in time = 35.4549 ms
+keypoints for preceeding vehicle = 276
+selected descriptor = SIFT
+SIFT descriptor extraction in 38.4579 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.184957 ms
+number of matches n = 35
+===============================================================
+image index = 3
+selected detector = BRISK
+keypoints n = 2735 in time = 36.0069 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = SIFT
+SIFT descriptor extraction in 28.4962 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.156246 ms
+number of matches n = 36
+===============================================================
+image index = 4
+selected detector = BRISK
+keypoints n = 2757 in time = 35.5444 ms
+keypoints for preceeding vehicle = 293
+selected descriptor = SIFT
+SIFT descriptor extraction in 34.7043 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.152331 ms
+number of matches n = 37
+===============================================================
+image index = 5
+selected detector = BRISK
+keypoints n = 2695 in time = 35.7541 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = SIFT
+SIFT descriptor extraction in 32.541 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.155009 ms
+number of matches n = 33
+===============================================================
+image index = 6
+selected detector = BRISK
+keypoints n = 2715 in time = 38.3145 ms
+keypoints for preceeding vehicle = 289
+selected descriptor = SIFT
+SIFT descriptor extraction in 43.4634 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.187736 ms
+number of matches n = 37
+===============================================================
+image index = 7
+selected detector = BRISK
+keypoints n = 2628 in time = 46.2378 ms
+keypoints for preceeding vehicle = 268
+selected descriptor = SIFT
+SIFT descriptor extraction in 38.9498 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.168428 ms
+number of matches n = 32
+===============================================================
+image index = 8
+selected detector = BRISK
+keypoints n = 2639 in time = 41.7279 ms
+keypoints for preceeding vehicle = 260
+selected descriptor = SIFT
+SIFT descriptor extraction in 38.4559 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.172737 ms
+number of matches n = 37
+===============================================================
+image index = 9
+selected detector = BRISK
+keypoints n = 2672 in time = 36.1379 ms
+keypoints for preceeding vehicle = 250
+selected descriptor = SIFT
+SIFT descriptor extraction in 35.1748 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.246056 ms
+number of matches n = 38
+===============================================================
+image index = 0
+selected detector = ORB
+keypoints n = 500 in time = 101.986 ms
+keypoints for preceeding vehicle = 91
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 9.01582 ms
+===============================================================
+image index = 1
+selected detector = ORB
+keypoints n = 500 in time = 8.4268 ms
+keypoints for preceeding vehicle = 102
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.9372 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.94971 ms
+number of matches n = 31
+===============================================================
+image index = 2
+selected detector = ORB
+keypoints n = 500 in time = 9.11099 ms
+keypoints for preceeding vehicle = 106
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.1031 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.213358 ms
+number of matches n = 18
+===============================================================
+image index = 3
+selected detector = ORB
+keypoints n = 500 in time = 9.22012 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.05226 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.238213 ms
+number of matches n = 22
+===============================================================
+image index = 4
+selected detector = ORB
+keypoints n = 500 in time = 10.0757 ms
+keypoints for preceeding vehicle = 109
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.938462 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.215214 ms
+number of matches n = 29
+===============================================================
+image index = 5
+selected detector = ORB
+keypoints n = 500 in time = 8.80575 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.690129 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.159105 ms
+number of matches n = 28
+===============================================================
+image index = 6
+selected detector = ORB
+keypoints n = 500 in time = 8.94059 ms
+keypoints for preceeding vehicle = 129
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.958808 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.199648 ms
+number of matches n = 36
+===============================================================
+image index = 7
+selected detector = ORB
+keypoints n = 500 in time = 9.43257 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.938927 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.24568 ms
+number of matches n = 34
+===============================================================
+image index = 8
+selected detector = ORB
+keypoints n = 500 in time = 8.84173 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.769026 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.186368 ms
+number of matches n = 28
+===============================================================
+image index = 9
+selected detector = ORB
+keypoints n = 500 in time = 8.91268 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.01919 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.201171 ms
+number of matches n = 36
+===============================================================
+image index = 0
+selected detector = ORB
+keypoints n = 500 in time = 82.5374 ms
+keypoints for preceeding vehicle = 91
+selected descriptor = ORB
+ORB descriptor extraction in 18.9858 ms
+===============================================================
+image index = 1
+selected detector = ORB
+keypoints n = 500 in time = 7.69361 ms
+keypoints for preceeding vehicle = 102
+selected descriptor = ORB
+ORB descriptor extraction in 9.42159 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 1.40019 ms
+number of matches n = 32
+===============================================================
+image index = 2
+selected detector = ORB
+keypoints n = 500 in time = 8.68931 ms
+keypoints for preceeding vehicle = 106
+selected descriptor = ORB
+ORB descriptor extraction in 12.0075 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.15852 ms
+number of matches n = 37
+===============================================================
+image index = 3
+selected detector = ORB
+keypoints n = 500 in time = 9.11932 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = ORB
+ORB descriptor extraction in 13.1017 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.134809 ms
+number of matches n = 38
+===============================================================
+image index = 4
+selected detector = ORB
+keypoints n = 500 in time = 9.57225 ms
+keypoints for preceeding vehicle = 109
+selected descriptor = ORB
+ORB descriptor extraction in 9.86585 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.1835 ms
+number of matches n = 39
+===============================================================
+image index = 5
+selected detector = ORB
+keypoints n = 500 in time = 9.46041 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = ORB
+ORB descriptor extraction in 13.5557 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.16167 ms
+number of matches n = 40
+===============================================================
+image index = 6
+selected detector = ORB
+keypoints n = 500 in time = 8.99308 ms
+keypoints for preceeding vehicle = 129
+selected descriptor = ORB
+ORB descriptor extraction in 12.4806 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.157542 ms
+number of matches n = 37
+===============================================================
+image index = 7
+selected detector = ORB
+keypoints n = 500 in time = 8.41078 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = ORB
+ORB descriptor extraction in 12.1563 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.160917 ms
+number of matches n = 37
+===============================================================
+image index = 8
+selected detector = ORB
+keypoints n = 500 in time = 10.2766 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = ORB
+ORB descriptor extraction in 12.8275 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.16727 ms
+number of matches n = 37
+===============================================================
+image index = 9
+selected detector = ORB
+keypoints n = 500 in time = 8.38174 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = ORB
+ORB descriptor extraction in 11.5766 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.151229 ms
+number of matches n = 41
+===============================================================
+image index = 0
+selected detector = ORB
+keypoints n = 500 in time = 52.8026 ms
+keypoints for preceeding vehicle = 91
+selected descriptor = FREK
+image index = 0
+selected detector = ORB
+keypoints n = 500 in time = 138.372 ms
+keypoints for preceeding vehicle = 91
+selected descriptor = FREAK
+FREAK descriptor extraction in 41.7518 ms
+===============================================================
+image index = 1
+selected detector = ORB
+keypoints n = 500 in time = 6.84022 ms
+keypoints for preceeding vehicle = 102
+selected descriptor = FREAK
+FREAK descriptor extraction in 33.534 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.188657 ms
+number of matches n = 32
+===============================================================
+image index = 2
+selected detector = ORB
+keypoints n = 500 in time = 10.2527 ms
+keypoints for preceeding vehicle = 106
+selected descriptor = FREAK
+FREAK descriptor extraction in 38.621 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.100423 ms
+number of matches n = 24
+===============================================================
+image index = 3
+selected detector = ORB
+keypoints n = 500 in time = 7.96537 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.0461 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.095065 ms
+number of matches n = 28
+===============================================================
+image index = 4
+selected detector = ORB
+keypoints n = 500 in time = 8.88432 ms
+keypoints for preceeding vehicle = 109
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.833 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.098855 ms
+number of matches n = 27
+===============================================================
+image index = 5
+selected detector = ORB
+keypoints n = 500 in time = 9.50592 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.0821 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.099511 ms
+number of matches n = 27
+===============================================================
+image index = 6
+selected detector = ORB
+keypoints n = 500 in time = 8.51532 ms
+keypoints for preceeding vehicle = 129
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.2862 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.134287 ms
+number of matches n = 25
+===============================================================
+image index = 7
+selected detector = ORB
+keypoints n = 500 in time = 8.36101 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.8109 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.089341 ms
+number of matches n = 28
+===============================================================
+image index = 8
+selected detector = ORB
+keypoints n = 500 in time = 8.96674 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.584 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.092401 ms
+number of matches n = 21
+===============================================================
+image index = 9
+selected detector = ORB
+keypoints n = 500 in time = 8.83993 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.5173 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.093982 ms
+number of matches n = 27
+===============================================================
+image index = 0
+selected detector = ORB
+keypoints n = 500 in time = 51.2365 ms
+keypoints for preceeding vehicle = 91
+selected descriptor = SIFT
+SIFT descriptor extraction in 48.481 ms
+===============================================================
+image index = 1
+selected detector = ORB
+keypoints n = 500 in time = 6.81078 ms
+keypoints for preceeding vehicle = 102
+selected descriptor = SIFT
+SIFT descriptor extraction in 37.8536 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 1.16124 ms
+number of matches n = 39
+===============================================================
+image index = 2
+selected detector = ORB
+keypoints n = 500 in time = 8.87694 ms
+keypoints for preceeding vehicle = 106
+selected descriptor = SIFT
+SIFT descriptor extraction in 35.6654 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.142759 ms
+number of matches n = 45
+===============================================================
+image index = 3
+selected detector = ORB
+keypoints n = 500 in time = 9.58822 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = SIFT
+SIFT descriptor extraction in 37.6322 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.173064 ms
+number of matches n = 44
+===============================================================
+image index = 4
+selected detector = ORB
+keypoints n = 500 in time = 8.81443 ms
+keypoints for preceeding vehicle = 109
+selected descriptor = SIFT
+SIFT descriptor extraction in 36.6567 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.12872 ms
+number of matches n = 40
+===============================================================
+image index = 5
+selected detector = ORB
+keypoints n = 500 in time = 8.80912 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = SIFT
+SIFT descriptor extraction in 35.0998 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.133387 ms
+number of matches n = 37
+===============================================================
+image index = 6
+selected detector = ORB
+keypoints n = 500 in time = 8.84685 ms
+keypoints for preceeding vehicle = 129
+selected descriptor = SIFT
+SIFT descriptor extraction in 30.3791 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.159946 ms
+number of matches n = 41
+===============================================================
+image index = 7
+selected detector = ORB
+keypoints n = 500 in time = 8.86752 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = SIFT
+SIFT descriptor extraction in 38.2783 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.158505 ms
+number of matches n = 41
+===============================================================
+image index = 8
+selected detector = ORB
+keypoints n = 500 in time = 8.94336 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = SIFT
+SIFT descriptor extraction in 42.7985 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.15369 ms
+number of matches n = 39
+===============================================================
+image index = 9
+selected detector = ORB
+keypoints n = 500 in time = 8.6773 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = SIFT
+SIFT descriptor extraction in 37.3245 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.196381 ms
+number of matches n = 42
+===============================================================
+image index = 0
+selected detector = AKAZE
+keypoints n = 1351 in time = 111.476 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 8.09901 ms
+===============================================================
+image index = 1
+selected detector = AKAZE
+keypoints n = 1327 in time = 90.5782 ms
+keypoints for preceeding vehicle = 157
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.54495 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 4.13977 ms
+number of matches n = 38
+===============================================================
+image index = 2
+selected detector = AKAZE
+keypoints n = 1311 in time = 85.5248 ms
+keypoints for preceeding vehicle = 159
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.62976 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.275396 ms
+number of matches n = 37
+===============================================================
+image index = 3
+selected detector = AKAZE
+keypoints n = 1351 in time = 70.9983 ms
+keypoints for preceeding vehicle = 154
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.56746 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.217033 ms
+number of matches n = 39
+===============================================================
+image index = 4
+selected detector = AKAZE
+keypoints n = 1360 in time = 73.34 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.58259 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.402541 ms
+number of matches n = 39
+===============================================================
+image index = 5
+selected detector = AKAZE
+keypoints n = 1347 in time = 69.6589 ms
+keypoints for preceeding vehicle = 163
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.54783 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.207579 ms
+number of matches n = 39
+===============================================================
+image index = 6
+selected detector = AKAZE
+keypoints n = 1363 in time = 71.3719 ms
+keypoints for preceeding vehicle = 173
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.52562 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.246234 ms
+number of matches n = 44
+===============================================================
+image index = 7
+selected detector = AKAZE
+keypoints n = 1331 in time = 73.1158 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.59954 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.249995 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = AKAZE
+keypoints n = 1358 in time = 73.4504 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.56656 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.263611 ms
+number of matches n = 39
+===============================================================
+image index = 9
+selected detector = AKAZE
+keypoints n = 1331 in time = 72.2233 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.29993 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.211007 ms
+number of matches n = 45
+===============================================================
+image index = 0
+selected detector = AKAZE
+keypoints n = 1351 in time = 96.9374 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = ORB
+ORB descriptor extraction in 13.6651 ms
+===============================================================
+image index = 1
+selected detector = AKAZE
+keypoints n = 1327 in time = 97.203 ms
+keypoints for preceeding vehicle = 157
+selected descriptor = ORB
+ORB descriptor extraction in 10.3409 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.225153 ms
+number of matches n = 36
+===============================================================
+image index = 2
+selected detector = AKAZE
+keypoints n = 1311 in time = 104.189 ms
+keypoints for preceeding vehicle = 159
+selected descriptor = ORB
+ORB descriptor extraction in 9.29925 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.237595 ms
+number of matches n = 37
+===============================================================
+image index = 3
+selected detector = AKAZE
+keypoints n = 1351 in time = 71.7753 ms
+keypoints for preceeding vehicle = 154
+selected descriptor = ORB
+ORB descriptor extraction in 9.78317 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.164897 ms
+number of matches n = 36
+===============================================================
+image index = 4
+selected detector = AKAZE
+keypoints n = 1360 in time = 72.4163 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = ORB
+ORB descriptor extraction in 9.1845 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.155687 ms
+number of matches n = 34
+===============================================================
+image index = 5
+selected detector = AKAZE
+keypoints n = 1347 in time = 75.1169 ms
+keypoints for preceeding vehicle = 163
+selected descriptor = ORB
+ORB descriptor extraction in 7.69355 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.154379 ms
+number of matches n = 36
+===============================================================
+image index = 6
+selected detector = AKAZE
+keypoints n = 1363 in time = 76.0513 ms
+keypoints for preceeding vehicle = 173
+selected descriptor = ORB
+ORB descriptor extraction in 8.79668 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.169099 ms
+number of matches n = 35
+===============================================================
+image index = 7
+selected detector = AKAZE
+keypoints n = 1331 in time = 73.5115 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = ORB
+ORB descriptor extraction in 7.86957 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.154733 ms
+number of matches n = 33
+===============================================================
+image index = 8
+selected detector = AKAZE
+keypoints n = 1358 in time = 76.7396 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = ORB
+ORB descriptor extraction in 6.90431 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.165032 ms
+number of matches n = 36
+===============================================================
+image index = 9
+selected detector = AKAZE
+keypoints n = 1331 in time = 80.1123 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = ORB
+ORB descriptor extraction in 10.7651 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.15764 ms
+number of matches n = 41
+===============================================================
+image index = 0
+selected detector = AKAZE
+keypoints n = 1351 in time = 105.13 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = FREAK
+FREAK descriptor extraction in 36.3512 ms
+===============================================================
+image index = 1
+selected detector = AKAZE
+keypoints n = 1327 in time = 88.5476 ms
+keypoints for preceeding vehicle = 157
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.6909 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.223585 ms
+number of matches n = 31
+===============================================================
+image index = 2
+selected detector = AKAZE
+keypoints n = 1311 in time = 80.1431 ms
+keypoints for preceeding vehicle = 159
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.9708 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.116538 ms
+number of matches n = 39
+===============================================================
+image index = 3
+selected detector = AKAZE
+keypoints n = 1351 in time = 74.0633 ms
+keypoints for preceeding vehicle = 154
+selected descriptor = FREAK
+FREAK descriptor extraction in 37.059 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.134392 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = AKAZE
+keypoints n = 1360 in time = 73.9004 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.6671 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.13087 ms
+number of matches n = 31
+===============================================================
+image index = 5
+selected detector = AKAZE
+keypoints n = 1347 in time = 72.5761 ms
+keypoints for preceeding vehicle = 163
+selected descriptor = FREAK
+FREAK descriptor extraction in 27.7185 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.109347 ms
+number of matches n = 33
+===============================================================
+image index = 6
+selected detector = AKAZE
+keypoints n = 1363 in time = 75.758 ms
+keypoints for preceeding vehicle = 173
+selected descriptor = FREAK
+FREAK descriptor extraction in 33.6182 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.119224 ms
+number of matches n = 38
+===============================================================
+image index = 7
+selected detector = AKAZE
+keypoints n = 1331 in time = 72.6203 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = FREAK
+FREAK descriptor extraction in 33.8754 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.126781 ms
+number of matches n = 37
+===============================================================
+image index = 8
+selected detector = AKAZE
+keypoints n = 1358 in time = 70.5763 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.7477 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.132457 ms
+number of matches n = 40
+===============================================================
+image index = 9
+selected detector = AKAZE
+keypoints n = 1331 in time = 77.7379 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = FREAK
+FREAK descriptor extraction in 36.0373 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.128836 ms
+number of matches n = 41
+===============================================================
+image index = 0
+selected detector = AKAZE
+keypoints n = 1351 in time = 86.6786 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 69.6185 ms
+===============================================================
+image index = 1
+selected detector = AKAZE
+keypoints n = 1327 in time = 62.2101 ms
+keypoints for preceeding vehicle = 157
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 62.814 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.196831 ms
+number of matches n = 39
+===============================================================
+image index = 2
+selected detector = AKAZE
+keypoints n = 1311 in time = 81.313 ms
+keypoints for preceeding vehicle = 159
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 66.9334 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.156783 ms
+number of matches n = 39
+===============================================================
+image index = 3
+selected detector = AKAZE
+keypoints n = 1351 in time = 73.1586 ms
+keypoints for preceeding vehicle = 154
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 63.7211 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.125231 ms
+number of matches n = 42
+===============================================================
+image index = 4
+selected detector = AKAZE
+keypoints n = 1360 in time = 77.301 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 65.5636 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.134135 ms
+number of matches n = 41
+===============================================================
+image index = 5
+selected detector = AKAZE
+keypoints n = 1347 in time = 74.323 ms
+keypoints for preceeding vehicle = 163
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 65.1759 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.139196 ms
+number of matches n = 37
+===============================================================
+image index = 6
+selected detector = AKAZE
+keypoints n = 1363 in time = 72.5403 ms
+keypoints for preceeding vehicle = 173
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 65.9978 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.168409 ms
+number of matches n = 46
+===============================================================
+image index = 7
+selected detector = AKAZE
+keypoints n = 1331 in time = 70.3274 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 65.3433 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.168746 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = AKAZE
+keypoints n = 1358 in time = 72.7913 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 63.0201 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.112513 ms
+number of matches n = 37
+===============================================================
+image index = 9
+selected detector = AKAZE
+keypoints n = 1331 in time = 71.0665 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = AKAZE
+AKAZE descriptor extraction in 63.5934 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.155402 ms
+number of matches n = 46
+===============================================================
+image index = 0
+selected detector = AKAZE
+keypoints n = 1351 in time = 97.3809 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = SIFT
+SIFT descriptor extraction in 30.8052 ms
+===============================================================
+image index = 1
+selected detector = AKAZE
+keypoints n = 1327 in time = 72.8303 ms
+keypoints for preceeding vehicle = 157
+selected descriptor = SIFT
+SIFT descriptor extraction in 25.955 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.888262 ms
+number of matches n = 36
+===============================================================
+image index = 2
+selected detector = AKAZE
+keypoints n = 1311 in time = 81.1242 ms
+keypoints for preceeding vehicle = 159
+selected descriptor = SIFT
+SIFT descriptor extraction in 26.1324 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.161873 ms
+number of matches n = 39
+===============================================================
+image index = 3
+selected detector = AKAZE
+keypoints n = 1351 in time = 77.1176 ms
+keypoints for preceeding vehicle = 154
+selected descriptor = SIFT
+SIFT descriptor extraction in 25.8888 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.196521 ms
+number of matches n = 37
+===============================================================
+image index = 4
+selected detector = AKAZE
+keypoints n = 1360 in time = 79.9472 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = SIFT
+SIFT descriptor extraction in 24.6312 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.139424 ms
+number of matches n = 42
+===============================================================
+image index = 5
+selected detector = AKAZE
+keypoints n = 1347 in time = 76.3584 ms
+keypoints for preceeding vehicle = 163
+selected descriptor = SIFT
+SIFT descriptor extraction in 26.0251 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.215587 ms
+number of matches n = 39
+===============================================================
+image index = 6
+selected detector = AKAZE
+keypoints n = 1363 in time = 78.5392 ms
+keypoints for preceeding vehicle = 173
+selected descriptor = SIFT
+SIFT descriptor extraction in 22.334 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.138359 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = AKAZE
+keypoints n = 1331 in time = 77.4476 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = SIFT
+SIFT descriptor extraction in 24.4937 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.177476 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = AKAZE
+keypoints n = 1358 in time = 77.455 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = SIFT
+SIFT descriptor extraction in 22.3075 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.183649 ms
+number of matches n = 36
+===============================================================
+image index = 9
+selected detector = AKAZE
+keypoints n = 1331 in time = 75.1324 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = SIFT
+SIFT descriptor extraction in 24.0704 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.16536 ms
+number of matches n = 45
+===============================================================
+image index = 0
+selected detector = SIFT
+keypoints n = 1438 in time = 160.887 ms
+keypoints for preceeding vehicle = 137
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 9.0162 ms
+===============================================================
+image index = 1
+selected detector = SIFT
+keypoints n = 1371 in time = 193.442 ms
+keypoints for preceeding vehicle = 131
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.1515 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 1.72736 ms
+number of matches n = 25
+===============================================================
+image index = 2
+selected detector = SIFT
+keypoints n = 1380 in time = 128.929 ms
+keypoints for preceeding vehicle = 121
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.62394 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.237052 ms
+number of matches n = 26
+===============================================================
+image index = 3
+selected detector = SIFT
+keypoints n = 1335 in time = 100.607 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.61071 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.232492 ms
+number of matches n = 21
+===============================================================
+image index = 4
+selected detector = SIFT
+keypoints n = 1305 in time = 95.6925 ms
+keypoints for preceeding vehicle = 134
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.5717 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.3265 ms
+number of matches n = 29
+===============================================================
+image index = 5
+selected detector = SIFT
+keypoints n = 1369 in time = 99.2266 ms
+keypoints for preceeding vehicle = 139
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.60194 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.264676 ms
+number of matches n = 21
+===============================================================
+image index = 6
+selected detector = SIFT
+keypoints n = 1396 in time = 95.327 ms
+keypoints for preceeding vehicle = 136
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.56291 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.398721 ms
+number of matches n = 31
+===============================================================
+image index = 7
+selected detector = SIFT
+keypoints n = 1382 in time = 101.08 ms
+keypoints for preceeding vehicle = 147
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.76809 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.256615 ms
+number of matches n = 19
+===============================================================
+image index = 8
+selected detector = SIFT
+keypoints n = 1463 in time = 94.1121 ms
+keypoints for preceeding vehicle = 156
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.64502 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.228988 ms
+number of matches n = 20
+===============================================================
+image index = 9
+selected detector = SIFT
+keypoints n = 1422 in time = 99.9618 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.57303 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.238242 ms
+number of matches n = 29
+===============================================================
+image index = 0
+selected detector = SIFT
+keypoints n = 1438 in time = 143.585 ms
+keypoints for preceeding vehicle = 137
+selected descriptor = ORB
+image index = 0
+selected detector = SIFT
+keypoints n = 1438 in time = 128.315 ms
+keypoints for preceeding vehicle = 137
+selected descriptor = FREAK
+FREAK descriptor extraction in 33.6236 ms
+===============================================================
+image index = 1
+selected detector = SIFT
+keypoints n = 1371 in time = 111.386 ms
+keypoints for preceeding vehicle = 131
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.6846 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.202018 ms
+number of matches n = 18
+===============================================================
+image index = 2
+selected detector = SIFT
+keypoints n = 1380 in time = 115.892 ms
+keypoints for preceeding vehicle = 121
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.5892 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.128386 ms
+number of matches n = 23
+===============================================================
+image index = 3
+selected detector = SIFT
+keypoints n = 1335 in time = 95.9452 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = FREAK
+FREAK descriptor extraction in 38.8924 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.132498 ms
+number of matches n = 20
+===============================================================
+image index = 4
+selected detector = SIFT
+keypoints n = 1305 in time = 96.8523 ms
+keypoints for preceeding vehicle = 134
+selected descriptor = FREAK
+FREAK descriptor extraction in 38.9597 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.14032 ms
+number of matches n = 23
+===============================================================
+image index = 5
+selected detector = SIFT
+keypoints n = 1369 in time = 96.8621 ms
+keypoints for preceeding vehicle = 139
+selected descriptor = FREAK
+FREAK descriptor extraction in 35.3711 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.133955 ms
+number of matches n = 14
+===============================================================
+image index = 6
+selected detector = SIFT
+keypoints n = 1396 in time = 125.51 ms
+keypoints for preceeding vehicle = 136
+selected descriptor = FREAK
+FREAK descriptor extraction in 37.2064 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.130735 ms
+number of matches n = 24
+===============================================================
+image index = 7
+selected detector = SIFT
+keypoints n = 1382 in time = 114.405 ms
+keypoints for preceeding vehicle = 147
+selected descriptor = FREAK
+FREAK descriptor extraction in 34.041 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.186483 ms
+number of matches n = 17
+===============================================================
+image index = 8
+selected detector = SIFT
+keypoints n = 1463 in time = 101.291 ms
+keypoints for preceeding vehicle = 156
+selected descriptor = FREAK
+FREAK descriptor extraction in 36.5225 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.125905 ms
+number of matches n = 15
+===============================================================
+image index = 9
+selected detector = SIFT
+keypoints n = 1422 in time = 96.4449 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = FREAK
+FREAK descriptor extraction in 38.2617 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.136784 ms
+number of matches n = 32
+===============================================================
+image index = 0
+selected detector = SIFT
+keypoints n = 1438 in time = 129.424 ms
+keypoints for preceeding vehicle = 137
+selected descriptor = AKAZE
+image index = 0
+selected detector = SIFT
+keypoints n = 1438 in time = 130.309 ms
+keypoints for preceeding vehicle = 137
+selected descriptor = SIFT
+SIFT descriptor extraction in 79.3723 ms
+===============================================================
+image index = 1
+selected detector = SIFT
+keypoints n = 1371 in time = 86.9425 ms
+keypoints for preceeding vehicle = 131
+selected descriptor = SIFT
+SIFT descriptor extraction in 64.5873 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 1.05394 ms
+number of matches n = 37
+===============================================================
+image index = 2
+selected detector = SIFT
+keypoints n = 1380 in time = 105.902 ms
+keypoints for preceeding vehicle = 121
+selected descriptor = SIFT
+SIFT descriptor extraction in 68.176 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.111854 ms
+number of matches n = 36
+===============================================================
+image index = 3
+selected detector = SIFT
+keypoints n = 1335 in time = 104.318 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = SIFT
+SIFT descriptor extraction in 68.7989 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.133313 ms
+number of matches n = 34
+===============================================================
+image index = 4
+selected detector = SIFT
+keypoints n = 1305 in time = 97.7762 ms
+keypoints for preceeding vehicle = 134
+selected descriptor = SIFT
+SIFT descriptor extraction in 66.4149 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.124945 ms
+number of matches n = 40
+===============================================================
+image index = 5
+selected detector = SIFT
+keypoints n = 1369 in time = 97.8374 ms
+keypoints for preceeding vehicle = 139
+selected descriptor = SIFT
+SIFT descriptor extraction in 64.9524 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.155272 ms
+number of matches n = 36
+===============================================================
+image index = 6
+selected detector = SIFT
+keypoints n = 1396 in time = 106.439 ms
+keypoints for preceeding vehicle = 136
+selected descriptor = SIFT
+SIFT descriptor extraction in 65.8795 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.124572 ms
+number of matches n = 37
+===============================================================
+image index = 7
+selected detector = SIFT
+keypoints n = 1382 in time = 98.3439 ms
+keypoints for preceeding vehicle = 147
+selected descriptor = SIFT
+SIFT descriptor extraction in 66.7042 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.120398 ms
+number of matches n = 30
+===============================================================
+image index = 8
+selected detector = SIFT
+keypoints n = 1463 in time = 98.3154 ms
+keypoints for preceeding vehicle = 156
+selected descriptor = SIFT
+SIFT descriptor extraction in 61.1189 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.159192 ms
+number of matches n = 37
+===============================================================
+image index = 9
+selected detector = SIFT
+keypoints n = 1422 in time = 96.3736 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = SIFT
+SIFT descriptor extraction in 62.91 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.115986 ms
+number of matches n = 37
+===============================================================
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 30.0647 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.09441 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 10.562 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.750694 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.172477 ms
+number of matches n = 47
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 12.9233 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.607829 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.153086 ms
+number of matches n = 49
+===============================================================
+image index = 3
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1358 keypoints in 13.1984 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.948884 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.142195 ms
+number of matches n = 44
+===============================================================
+image index = 4
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1333 keypoints in 10.8173 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.915812 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.151581 ms
+number of matches n = 44
+===============================================================
+image index = 5
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1284 keypoints in 12.4036 ms
+keypoints for preceeding vehicle = 115
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.942814 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.132827 ms
+number of matches n = 46
+===============================================================
+image index = 6
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1322 keypoints in 12.364 ms
+keypoints for preceeding vehicle = 114
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.981144 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.16607 ms
+number of matches n = 46
+===============================================================
+image index = 7
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1366 keypoints in 12.2765 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.970266 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.164905 ms
+number of matches n = 46
+===============================================================
+image index = 8
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1389 keypoints in 12.7301 ms
+keypoints for preceeding vehicle = 112
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.956436 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.183135 ms
+number of matches n = 46
+===============================================================
+image index = 9
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1339 keypoints in 12.7713 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.00772 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.162404 ms
+number of matches n = 46
+===============================================================
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 18.1432 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = ORB
+ORB descriptor extraction in 4.52963 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 13.947 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = ORB
+ORB descriptor extraction in 2.68928 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.279574 ms
+number of matches n = 46
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 15.8669 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = ORB
+ORB descriptor extraction in 2.84357 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.149725 ms
+number of matches n = 46
+===============================================================
+image index = 3
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1358 keypoints in 12.6359 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = ORB
+ORB descriptor extraction in 3.00834 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.150648 ms
+number of matches n = 45
+===============================================================
+image index = 4
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1333 keypoints in 12.5347 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = ORB
+ORB descriptor extraction in 3.07395 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.135689 ms
+number of matches n = 40
+===============================================================
+image index = 5
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1284 keypoints in 12.6331 ms
+keypoints for preceeding vehicle = 115
+selected descriptor = ORB
+ORB descriptor extraction in 3.08857 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.156936 ms
+number of matches n = 48
+===============================================================
+image index = 6
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1322 keypoints in 12.5628 ms
+keypoints for preceeding vehicle = 114
+selected descriptor = ORB
+ORB descriptor extraction in 2.96715 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.149129 ms
+number of matches n = 41
+===============================================================
+image index = 7
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1366 keypoints in 12.6577 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = ORB
+ORB descriptor extraction in 2.8985 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.129722 ms
+number of matches n = 42
+===============================================================
+image index = 8
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1389 keypoints in 12.1195 ms
+keypoints for preceeding vehicle = 112
+selected descriptor = ORB
+ORB descriptor extraction in 2.85513 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.153231 ms
+number of matches n = 44
+===============================================================
+image index = 9
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1339 keypoints in 14.3654 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = ORB
+ORB descriptor extraction in 3.07985 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.207015 ms
+number of matches n = 46
+===============================================================
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 20.0865 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.7239 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 10.1611 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = FREAK
+FREAK descriptor extraction in 24.1356 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.175202 ms
+number of matches n = 40
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 14.8943 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = FREAK
+FREAK descriptor extraction in 24.5206 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.11184 ms
+number of matches n = 40
+===============================================================
+image index = 3
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1358 keypoints in 12.7853 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = FREAK
+FREAK descriptor extraction in 25.1448 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.114733 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1333 keypoints in 12.7791 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = FREAK
+FREAK descriptor extraction in 25.2702 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.146343 ms
+number of matches n = 36
+===============================================================
+image index = 5
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1284 keypoints in 12.1996 ms
+keypoints for preceeding vehicle = 115
+selected descriptor = FREAK
+FREAK descriptor extraction in 24.6741 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.117351 ms
+number of matches n = 39
+===============================================================
+image index = 6
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1322 keypoints in 12.7716 ms
+keypoints for preceeding vehicle = 114
+selected descriptor = FREAK
+FREAK descriptor extraction in 25.812 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.122053 ms
+number of matches n = 36
+===============================================================
+image index = 7
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1366 keypoints in 12.7403 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = FREAK
+FREAK descriptor extraction in 25.7973 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.118471 ms
+number of matches n = 32
+===============================================================
+image index = 8
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1389 keypoints in 12.8323 ms
+keypoints for preceeding vehicle = 112
+selected descriptor = FREAK
+FREAK descriptor extraction in 25.7138 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.100512 ms
+number of matches n = 36
+===============================================================
+image index = 9
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1339 keypoints in 12.4931 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = FREAK
+FREAK descriptor extraction in 25.8986 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.121844 ms
+number of matches n = 40
+===============================================================
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 18.4923 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = AKAZE
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 19.2983 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = SIFT
+SIFT descriptor extraction in 19.4765 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 16.4439 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.7249 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.598812 ms
+number of matches n = 46
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 14.7612 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = SIFT
+SIFT descriptor extraction in 15.0357 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.14497 ms
+number of matches n = 47
+===============================================================
+image index = 3
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1358 keypoints in 11.6126 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = SIFT
+SIFT descriptor extraction in 14.0299 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.153458 ms
+number of matches n = 45
+===============================================================
+image index = 4
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1333 keypoints in 12.103 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = SIFT
+SIFT descriptor extraction in 14.1437 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.172564 ms
+number of matches n = 42
+===============================================================
+image index = 5
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1284 keypoints in 12.422 ms
+keypoints for preceeding vehicle = 115
+selected descriptor = SIFT
+SIFT descriptor extraction in 14.2413 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.184466 ms
+number of matches n = 45
+===============================================================
+image index = 6
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1322 keypoints in 11.5857 ms
+keypoints for preceeding vehicle = 114
+selected descriptor = SIFT
+SIFT descriptor extraction in 13.5135 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.165471 ms
+number of matches n = 43
+===============================================================
+image index = 7
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1366 keypoints in 12.6851 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = SIFT
+SIFT descriptor extraction in 13.9399 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.15449 ms
+number of matches n = 45
+===============================================================
+image index = 8
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1389 keypoints in 12.3155 ms
+keypoints for preceeding vehicle = 112
+selected descriptor = SIFT
+SIFT descriptor extraction in 14.1504 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.130097 ms
+number of matches n = 47
+===============================================================
+image index = 9
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1339 keypoints in 11.6489 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = SIFT
+SIFT descriptor extraction in 13.9685 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.15277 ms
+number of matches n = 46
+===============================================================
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 32.5258 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 5.8175 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 12.2178 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.00953 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 1.78844 ms
+number of matches n = 47
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 14.595 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.19026 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.193209 ms
+number of matches n = 49
+===============================================================
+image index = 3
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1358 keypoints in 13.2786 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.28096 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.224439 ms
+number of matches n = 44
+===============================================================
+image index = 4
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1333 keypoints in 14.6347 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.721928 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.155827 ms
+number of matches n = 44
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 31.4691 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 8.23877 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 14.4736 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.842501 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.66511 ms
+number of matches n = 20
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 18.4473 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.834976 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.123921 ms
+number of matches n = 10
+===============================================================
+image index = 3
+selected detector = HARRIS
+keypoints n = 370 in time = 16.072 ms
+keypoints for preceeding vehicle = 62
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.890484 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.146042 ms
+number of matches n = 18
+===============================================================
+image index = 4
+selected detector = HARRIS
+keypoints n = 535 in time = 19.3688 ms
+keypoints for preceeding vehicle = 87
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.85441 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.127976 ms
+number of matches n = 5
+===============================================================
+image index = 5
+selected detector = HARRIS
+keypoints n = 2913 in time = 141.586 ms
+keypoints for preceeding vehicle = 353
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.749506 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.158076 ms
+number of matches n = 2
+===============================================================
+image index = 6
+selected detector = HARRIS
+keypoints n = 203 in time = 13.6032 ms
+keypoints for preceeding vehicle = 38
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.86408 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.123144 ms
+number of matches n = 16
+===============================================================
+image index = 7
+selected detector = HARRIS
+keypoints n = 836 in time = 27.8095 ms
+keypoints for preceeding vehicle = 142
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.760228 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.086123 ms
+number of matches n = 2
+===============================================================
+image index = 8
+selected detector = HARRIS
+keypoints n = 585 in time = 20.3261 ms
+keypoints for preceeding vehicle = 104
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.51202 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.124389 ms
+number of matches n = 10
+===============================================================
+image index = 9
+selected detector = HARRIS
+keypoints n = 1555 in time = 53.4339 ms
+keypoints for preceeding vehicle = 212
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.769054 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.109811 ms
+number of matches n = 5
+===============================================================
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 21.6349 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.05474 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 13.0886 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.05377 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.522518 ms
+number of matches n = 20
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 19.973 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.829021 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.119234 ms
+number of matches n = 10
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 28.7116 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.01866 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 13.9609 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.913339 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.216101 ms
+number of matches n = 47
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 15.5373 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.888296 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.121712 ms
+number of matches n = 49
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 20.7149 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.78575 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 11.0395 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.91573 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.247821 ms
+number of matches n = 47
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 16.5691 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.9345 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.149799 ms
+number of matches n = 49
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 20.4017 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.76318 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 15.2501 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.995899 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.285353 ms
+number of matches n = 20
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 16.9591 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.775701 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.099339 ms
+number of matches n = 10
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.283 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.23697 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.30245 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.55053 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.365045 ms
+number of matches n = 45
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.63583 ms
+image index = 0
+selected detector = BRISK
+keypoints n = 2757 in time = 42.1065 ms
+keypoints for preceeding vehicle = 254
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.06587 ms
+===============================================================
+image index = 1
+selected detector = BRISK
+keypoints n = 2777 in time = 33.4065 ms
+keypoints for preceeding vehicle = 274
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.675661 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.23934 ms
+number of matches n = 36
+===============================================================
+image index = 2
+selected detector = BRISK
+keypoints n = 2741 in time = 34.2834 ms
+image index = 0
+selected detector = ORB
+keypoints n = 500 in time = 75.7205 ms
+keypoints for preceeding vehicle = 91
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.10142 ms
+===============================================================
+image index = 1
+selected detector = ORB
+keypoints n = 500 in time = 8.44981 ms
+keypoints for preceeding vehicle = 102
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.575409 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.233432 ms
+number of matches n = 31
+===============================================================
+image index = 2
+selected detector = ORB
+keypoints n = 500 in time = 7.85084 ms
+image index = 0
+selected detector = AKAZE
+keypoints n = 1351 in time = 119.339 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.41216 ms
+===============================================================
+image index = 1
+selected detector = AKAZE
+keypoints n = 1327 in time = 79.0117 ms
+keypoints for preceeding vehicle = 157
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.73394 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.357046 ms
+number of matches n = 38
+===============================================================
+image index = 2
+selected detector = AKAZE
+keypoints n = 1311 in time = 82.3399 ms
+image index = 0
+selected detector = SIFT
+keypoints n = 1438 in time = 155.869 ms
+keypoints for preceeding vehicle = 137
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.48436 ms
+===============================================================
+image index = 1
+selected detector = SIFT
+keypoints n = 1371 in time = 155.464 ms
+keypoints for preceeding vehicle = 131
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.512 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.442624 ms
+number of matches n = 25
+===============================================================
+image index = 2
+selected detector = SIFT
+keypoints n = 1380 in time = 125.744 ms
+================================================================
+
+Detection Time Comparison: Various Detectors(SHITOMASI, HARRIS, FAST, BRISK, ORB, AKAZE, SIFT) in combination with BRIEF descriptor
+image index = 0
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1370 keypoints in 37.5508 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 8.73389 ms
+===============================================================
+image index = 1
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1301 keypoints in 11.3671 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.793042 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.89017 ms
+number of matches n = 47
+===============================================================
+image index = 2
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1361 keypoints in 14.6575 ms
+keypoints for preceeding vehicle = 123
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.05004 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.158949 ms
+number of matches n = 49
+===============================================================
+image index = 3
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1358 keypoints in 12.2002 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.946037 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.145706 ms
+number of matches n = 44
+===============================================================
+image index = 4
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1333 keypoints in 12.6107 ms
+keypoints for preceeding vehicle = 120
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.705092 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.126175 ms
+number of matches n = 44
+===============================================================
+image index = 5
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1284 keypoints in 12.552 ms
+keypoints for preceeding vehicle = 115
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.948702 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.14152 ms
+number of matches n = 46
+===============================================================
+image index = 6
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1322 keypoints in 13.13 ms
+keypoints for preceeding vehicle = 114
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.0677 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.153043 ms
+number of matches n = 46
+===============================================================
+image index = 7
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1366 keypoints in 12.6186 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.724697 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.181386 ms
+number of matches n = 46
+===============================================================
+image index = 8
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1389 keypoints in 12.3023 ms
+keypoints for preceeding vehicle = 112
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.951183 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.137005 ms
+number of matches n = 46
+===============================================================
+image index = 9
+selected detector = SHITOMASI
+Shi-Tomasi detection with n=1339 keypoints in 12.2886 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.958783 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.143438 ms
+number of matches n = 46
+===============================================================
+
+DETECTION TIMES OF HARRIS DETECTOR WITH BRIEF DESCRIPTOR
+image index = 0
+selected detector = HARRIS
+keypoints n = 349 in time = 22.1336 ms
+keypoints for preceeding vehicle = 52
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.68975 ms
+===============================================================
+image index = 1
+selected detector = HARRIS
+keypoints n = 294 in time = 14.1086 ms
+keypoints for preceeding vehicle = 43
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.761053 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.210682 ms
+number of matches n = 20
+===============================================================
+image index = 2
+selected detector = HARRIS
+keypoints n = 362 in time = 18.7248 ms
+keypoints for preceeding vehicle = 67
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.18789 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.171661 ms
+number of matches n = 10
+===============================================================
+image index = 3
+selected detector = HARRIS
+keypoints n = 370 in time = 16.9151 ms
+keypoints for preceeding vehicle = 62
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.983167 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.128793 ms
+number of matches n = 18
+===============================================================
+image index = 4
+selected detector = HARRIS
+keypoints n = 535 in time = 18.2985 ms
+keypoints for preceeding vehicle = 87
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.747964 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.115351 ms
+number of matches n = 5
+===============================================================
+image index = 5
+selected detector = HARRIS
+keypoints n = 2913 in time = 138.534 ms
+keypoints for preceeding vehicle = 353
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.848599 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.089797 ms
+number of matches n = 2
+===============================================================
+image index = 6
+selected detector = HARRIS
+keypoints n = 203 in time = 8.77744 ms
+keypoints for preceeding vehicle = 38
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.617326 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.09633 ms
+number of matches n = 16
+===============================================================
+image index = 7
+selected detector = HARRIS
+keypoints n = 836 in time = 28.0747 ms
+keypoints for preceeding vehicle = 142
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.727368 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.102199 ms
+number of matches n = 2
+===============================================================
+image index = 8
+selected detector = HARRIS
+keypoints n = 585 in time = 20.7938 ms
+keypoints for preceeding vehicle = 104
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.810377 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.11361 ms
+number of matches n = 10
+===============================================================
+image index = 9
+selected detector = HARRIS
+keypoints n = 1555 in time = 55.3795 ms
+keypoints for preceeding vehicle = 212
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.739478 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.118199 ms
+number of matches n = 5
+===============================================================
+
+DETECTION TIME FOR FAST DETECTOR WITH BRIEF DESCRIPTOR
+
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.07524 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.28885 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.79588 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.00979 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.400577 ms
+number of matches n = 45
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 3.10169 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.07532 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.214071 ms
+number of matches n = 47
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.81808 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.947913 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.248644 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.4256 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.73823 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.169732 ms
+number of matches n = 46
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.44345 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.949333 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.265675 ms
+number of matches n = 40
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.45959 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.886345 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.246026 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.46575 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.681698 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.185849 ms
+number of matches n = 43
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.57855 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.949127 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.25653 ms
+number of matches n = 43
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.51742 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.979437 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.154591 ms
+number of matches n = 47
+===============================================================
+
+DETECTION TIME FOR BRISK DETECTOR WITH BRIEF DESCRIPTOR
+
+image index = 0
+selected detector = BRISK
+keypoints n = 2757 in time = 60.3351 ms
+keypoints for preceeding vehicle = 254
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 5.55899 ms
+===============================================================
+image index = 1
+selected detector = BRISK
+keypoints n = 2777 in time = 34.4269 ms
+keypoints for preceeding vehicle = 274
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.680042 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.33581 ms
+number of matches n = 36
+===============================================================
+image index = 2
+selected detector = BRISK
+keypoints n = 2741 in time = 33.1517 ms
+keypoints for preceeding vehicle = 276
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.669729 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.134421 ms
+number of matches n = 30
+===============================================================
+image index = 3
+selected detector = BRISK
+keypoints n = 2735 in time = 34.5003 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.483227 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.132681 ms
+number of matches n = 35
+===============================================================
+image index = 4
+selected detector = BRISK
+keypoints n = 2757 in time = 38.2615 ms
+keypoints for preceeding vehicle = 293
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.849448 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.180877 ms
+number of matches n = 36
+===============================================================
+image index = 5
+selected detector = BRISK
+keypoints n = 2695 in time = 32.5803 ms
+keypoints for preceeding vehicle = 275
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.461099 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.124928 ms
+number of matches n = 33
+===============================================================
+image index = 6
+selected detector = BRISK
+keypoints n = 2715 in time = 32.1517 ms
+keypoints for preceeding vehicle = 289
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.471313 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.124246 ms
+number of matches n = 34
+===============================================================
+image index = 7
+selected detector = BRISK
+keypoints n = 2628 in time = 32.0785 ms
+keypoints for preceeding vehicle = 268
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.554574 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.106141 ms
+number of matches n = 37
+===============================================================
+image index = 8
+selected detector = BRISK
+keypoints n = 2639 in time = 32.17 ms
+keypoints for preceeding vehicle = 260
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.467573 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.121388 ms
+number of matches n = 35
+===============================================================
+image index = 9
+selected detector = BRISK
+keypoints n = 2672 in time = 32.6936 ms
+keypoints for preceeding vehicle = 250
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.541904 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.098067 ms
+number of matches n = 36
+===============================================================
+
+DETECTION TIMES FOR ORB DETECTOR WITH BRIEF DESCRIPTOR
+image index = 0
+selected detector = ORB
+keypoints n = 500 in time = 57.8647 ms
+keypoints for preceeding vehicle = 91
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.12738 ms
+===============================================================
+image index = 1
+selected detector = ORB
+keypoints n = 500 in time = 8.10254 ms
+keypoints for preceeding vehicle = 102
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.74256 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.270793 ms
+number of matches n = 31
+===============================================================
+image index = 2
+selected detector = ORB
+keypoints n = 500 in time = 8.7345 ms
+keypoints for preceeding vehicle = 106
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.45234 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.257471 ms
+number of matches n = 18
+===============================================================
+image index = 3
+selected detector = ORB
+keypoints n = 500 in time = 8.42078 ms
+keypoints for preceeding vehicle = 113
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.34098 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.242946 ms
+number of matches n = 22
+===============================================================
+image index = 4
+selected detector = ORB
+keypoints n = 500 in time = 8.62512 ms
+keypoints for preceeding vehicle = 109
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.953578 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.199185 ms
+number of matches n = 29
+===============================================================
+image index = 5
+selected detector = ORB
+keypoints n = 500 in time = 9.50104 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.02375 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.246984 ms
+number of matches n = 28
+===============================================================
+image index = 6
+selected detector = ORB
+keypoints n = 500 in time = 9.59681 ms
+keypoints for preceeding vehicle = 129
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.94373 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.232742 ms
+number of matches n = 36
+===============================================================
+image index = 7
+selected detector = ORB
+keypoints n = 500 in time = 8.69285 ms
+keypoints for preceeding vehicle = 127
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.932346 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.2303 ms
+number of matches n = 34
+===============================================================
+image index = 8
+selected detector = ORB
+keypoints n = 500 in time = 10.741 ms
+keypoints for preceeding vehicle = 124
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.1509 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.300677 ms
+number of matches n = 28
+===============================================================
+image index = 9
+selected detector = ORB
+keypoints n = 500 in time = 11.2304 ms
+keypoints for preceeding vehicle = 125
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.936174 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.231503 ms
+number of matches n = 36
+===============================================================
+
+DETECTION TIMES FOR AKAZE DETECTOR WITH BRIEF DESCRIPTOR
+
+image index = 0
+selected detector = AKAZE
+keypoints n = 1351 in time = 107.626 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 8.615 ms
+===============================================================
+image index = 1
+selected detector = AKAZE
+keypoints n = 1327 in time = 126.582 ms
+keypoints for preceeding vehicle = 157
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.61879 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.998567 ms
+number of matches n = 38
+===============================================================
+image index = 2
+selected detector = AKAZE
+keypoints n = 1311 in time = 83.4871 ms
+keypoints for preceeding vehicle = 159
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 0.953462 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.248006 ms
+number of matches n = 37
+===============================================================
+image index = 3
+selected detector = AKAZE
+keypoints n = 1351 in time = 73.3099 ms
+keypoints for preceeding vehicle = 154
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.38848 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.157189 ms
+number of matches n = 39
+===============================================================
+image index = 4
+selected detector = AKAZE
+keypoints n = 1360 in time = 71.7016 ms
+keypoints for preceeding vehicle = 162
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.50966 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.220863 ms
+number of matches n = 39
+===============================================================
+image index = 5
+selected detector = AKAZE
+keypoints n = 1347 in time = 68.8282 ms
+keypoints for preceeding vehicle = 163
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.49958 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.251096 ms
+number of matches n = 39
+===============================================================
+image index = 6
+selected detector = AKAZE
+keypoints n = 1363 in time = 77.4629 ms
+keypoints for preceeding vehicle = 173
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.12893 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.149475 ms
+number of matches n = 44
+===============================================================
+image index = 7
+selected detector = AKAZE
+keypoints n = 1331 in time = 72.7762 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.50528 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.288867 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = AKAZE
+keypoints n = 1358 in time = 71.6374 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.5184 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.244926 ms
+number of matches n = 39
+===============================================================
+image index = 9
+selected detector = AKAZE
+keypoints n = 1331 in time = 73.0439 ms
+keypoints for preceeding vehicle = 175
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.56098 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.214834 ms
+number of matches n = 45
+===============================================================
+image index = 0
+selected detector = SIFT
+keypoints n = 1438 in time = 151.395 ms
+keypoints for preceeding vehicle = 137
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.10731 ms
+===============================================================
+image index = 1
+selected detector = SIFT
+keypoints n = 1371 in time = 123.851 ms
+keypoints for preceeding vehicle = 131
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.53082 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.35125 ms
+number of matches n = 25
+===============================================================
+image index = 2
+selected detector = SIFT
+keypoints n = 1380 in time = 112.15 ms
+keypoints for preceeding vehicle = 121
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.66024 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.194177 ms
+number of matches n = 26
+===============================================================
+image index = 3
+selected detector = SIFT
+keypoints n = 1335 in time = 96.0851 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.44596 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.146931 ms
+number of matches n = 21
+===============================================================
+image index = 4
+selected detector = SIFT
+keypoints n = 1305 in time = 99.7502 ms
+keypoints for preceeding vehicle = 134
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.65803 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.250769 ms
+number of matches n = 29
+===============================================================
+image index = 5
+selected detector = SIFT
+keypoints n = 1369 in time = 98.5396 ms
+keypoints for preceeding vehicle = 139
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.1284 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.243352 ms
+number of matches n = 21
+===============================================================
+image index = 6
+selected detector = SIFT
+keypoints n = 1396 in time = 97.8996 ms
+keypoints for preceeding vehicle = 136
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.54405 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.241554 ms
+number of matches n = 31
+===============================================================
+image index = 7
+selected detector = SIFT
+keypoints n = 1382 in time = 98.7873 ms
+keypoints for preceeding vehicle = 147
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.51711 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.170845 ms
+number of matches n = 19
+===============================================================
+image index = 8
+selected detector = SIFT
+keypoints n = 1463 in time = 97.8421 ms
+keypoints for preceeding vehicle = 156
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.52962 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.279013 ms
+number of matches n = 20
+===============================================================
+image index = 9
+selected detector = SIFT
+keypoints n = 1422 in time = 98.7473 ms
+keypoints for preceeding vehicle = 135
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.65465 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.207567 ms
+number of matches n = 29
+===============================================================
+
+DESCRIPTOR EXTRACTION TIME FOR VARIOUS DESCRIPTORS WHEN USING FAST DETECTOR
+
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.31153 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 10.0738 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.54345 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.15665 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.15542 ms
+number of matches n = 45
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.77131 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 4.00765 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.293085 ms
+number of matches n = 47
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.57659 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.31825 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.172467 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 1.5931 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.53123 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.252058 ms
+number of matches n = 46
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.1502 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.55498 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.177518 ms
+number of matches n = 40
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.59403 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.16239 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.18617 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.4566 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.5408 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.23824 ms
+number of matches n = 43
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.35668 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.55425 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.272934 ms
+number of matches n = 43
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.52895 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.53059 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.261126 ms
+number of matches n = 47
+===============================================================
+
+ORB DESCRIPTOR
+
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 3.88125 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = ORB
+ORB descriptor extraction in 16.616 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.34966 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = ORB
+ORB descriptor extraction in 3.33877 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 2.16491 ms
+number of matches n = 43
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.11871 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = ORB
+ORB descriptor extraction in 4.72057 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.220636 ms
+number of matches n = 44
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.57996 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = ORB
+ORB descriptor extraction in 4.48228 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.184808 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.43372 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = ORB
+ORB descriptor extraction in 4.42028 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.151258 ms
+number of matches n = 44
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.24999 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = ORB
+ORB descriptor extraction in 4.50292 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.176823 ms
+number of matches n = 39
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 3.22701 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = ORB
+ORB descriptor extraction in 3.49048 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.174813 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.48188 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = ORB
+ORB descriptor extraction in 3.14079 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.141423 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.56282 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = ORB
+ORB descriptor extraction in 4.49529 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.167578 ms
+number of matches n = 44
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.40811 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = ORB
+ORB descriptor extraction in 3.063 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.195976 ms
+number of matches n = 47
+===============================================================
+
+FREAK DESCRIPTOR
+
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 2.9958 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = FREAK
+FREAK descriptor extraction in 44.0767 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.09466 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.9427 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.207989 ms
+number of matches n = 35
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 3.52082 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = FREAK
+FREAK descriptor extraction in 31.7385 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.116814 ms
+number of matches n = 38
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.48117 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = FREAK
+FREAK descriptor extraction in 32.7359 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.132864 ms
+number of matches n = 31
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 3.50124 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = FREAK
+FREAK descriptor extraction in 32.5615 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.151128 ms
+number of matches n = 35
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.46665 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.3915 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.133156 ms
+number of matches n = 35
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.46217 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.6046 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.141366 ms
+number of matches n = 38
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.49892 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.062 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.13205 ms
+number of matches n = 33
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.57488 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = FREAK
+FREAK descriptor extraction in 30.5905 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.142447 ms
+number of matches n = 36
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.6852 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = FREAK
+FREAK descriptor extraction in 29.6633 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.126054 ms
+number of matches n = 43
+===============================================================
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 5.09347 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = SIFT
+SIFT descriptor extraction in 33.206 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.12377 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = SIFT
+SIFT descriptor extraction in 18.2924 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 2.05734 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = SIFT
+SIFT descriptor extraction in 27.3452 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.11139 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.415 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 1.71031 ms
+number of matches n = 44
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.55 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = SIFT
+SIFT descriptor extraction in 18.027 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.181513 ms
+number of matches n = 44
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.45146 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.4667 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.182313 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.47224 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = SIFT
+SIFT descriptor extraction in 18.2554 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.262422 ms
+number of matches n = 42
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.49867 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.5851 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.181782 ms
+number of matches n = 42
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.65919 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.2949 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.201528 ms
+number of matches n = 41
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.48496 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = SIFT
+SIFT descriptor extraction in 19.5708 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.188193 ms
+number of matches n = 39
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.51781 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.4974 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.174375 ms
+number of matches n = 40
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.38737 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = SIFT
+SIFT descriptor extraction in 17.688 ms
+matcher type = MAT_BF
+descriptor type = DES_HOG
+selector type = SEL_KNN
+matching time = 0.181346 ms
+number of matches n = 38
+===============================================================
+image index = 0
+selected detector = FAST
+keypoints n = 5063 in time = 4.0654 ms
+keypoints for preceeding vehicle = 420
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 11.4251 ms
+===============================================================
+image index = 1
+selected detector = FAST
+keypoints n = 4952 in time = 2.66177 ms
+keypoints for preceeding vehicle = 431
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.08898 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 3.67817 ms
+number of matches n = 45
+===============================================================
+image index = 2
+selected detector = FAST
+keypoints n = 4863 in time = 2.53179 ms
+keypoints for preceeding vehicle = 408
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 2.20431 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.187015 ms
+number of matches n = 47
+===============================================================
+image index = 3
+selected detector = FAST
+keypoints n = 4840 in time = 2.39189 ms
+keypoints for preceeding vehicle = 430
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.5173 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.174854 ms
+number of matches n = 40
+===============================================================
+image index = 4
+selected detector = FAST
+keypoints n = 4856 in time = 2.41329 ms
+keypoints for preceeding vehicle = 389
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.13272 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.175174 ms
+number of matches n = 46
+===============================================================
+image index = 5
+selected detector = FAST
+keypoints n = 4899 in time = 2.5353 ms
+keypoints for preceeding vehicle = 417
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.12011 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.207764 ms
+number of matches n = 40
+===============================================================
+image index = 6
+selected detector = FAST
+keypoints n = 4870 in time = 2.39336 ms
+keypoints for preceeding vehicle = 422
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.56041 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.159304 ms
+number of matches n = 42
+===============================================================
+image index = 7
+selected detector = FAST
+keypoints n = 4868 in time = 2.51723 ms
+keypoints for preceeding vehicle = 413
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.10504 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.158531 ms
+number of matches n = 43
+===============================================================
+image index = 8
+selected detector = FAST
+keypoints n = 4996 in time = 2.49965 ms
+keypoints for preceeding vehicle = 401
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.14444 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.177996 ms
+number of matches n = 43
+===============================================================
+image index = 9
+selected detector = FAST
+keypoints n = 4997 in time = 2.68714 ms
+keypoints for preceeding vehicle = 405
+selected descriptor = BRIEF
+BRIEF descriptor extraction in 1.11284 ms
+matcher type = MAT_BF
+descriptor type = DES_BINARY
+selector type = SEL_KNN
+matching time = 0.149197 ms
+number of matches n = 47
+===============================================================
